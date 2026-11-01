@@ -162,10 +162,10 @@ These are technologies and tools I use across projects and technical workflows. 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/abanoubnour98/abanoubnour98/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/abanoubnour98/abanoubnour98/output/github-contribution-grid-snake-dark.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/abanoubnour98/abanoubnour98/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/abanoubnour98/abanoubnour98/output/github-contribution-grid-snake.svg"
       alt="Animated visualization of Abanoub Fahim's GitHub contribution calendar"
       width="100%"
     />
